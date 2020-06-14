@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>D:\Users\admin.local\Documents\KIcad\fuseboard\v7\fuseboardv4.sch</source>
+    <date>22-5-2020 10:27:42</date>
+    <tool>Eeschema (5.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>fuseboardv4.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="R1">
+      <value>R-EU_0204_7</value>
+      <footprint>fuseboardv4:0204_7</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="R-EU_0204_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54673866</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>R-EU_0204_7</value>
+      <footprint>fuseboardv4:0204_7</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="R-EU_0204_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>855FDFDB</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>R-EU_0204_7</value>
+      <footprint>fuseboardv4:0204_7</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="R-EU_0204_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>A00BD228</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>R-EU_0204_7</value>
+      <footprint>fuseboardv4:0204_7</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="R-EU_0204_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>BA9F59F4</tstamp>
+    </comp>
+    <comp ref="LED1">
+      <value>LED3MM</value>
+      <footprint>fuseboardv4:LED3MM</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="LED3MM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7DC8C285</tstamp>
+    </comp>
+    <comp ref="LED2">
+      <value>LED3MM</value>
+      <footprint>fuseboardv4:LED3MM</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="LED3MM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>221661FE</tstamp>
+    </comp>
+    <comp ref="LED3">
+      <value>LED3MM</value>
+      <footprint>fuseboardv4:LED3MM</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="LED3MM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>E9052FDA</tstamp>
+    </comp>
+    <comp ref="LED4">
+      <value>LED3MM</value>
+      <footprint>fuseboardv4:LED3MM</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="LED3MM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>9949CB52</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>FUSE2P</value>
+      <footprint>fuseboardv4:FUSE1</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="FUSE2P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>BAEBDDEB</tstamp>
+    </comp>
+    <comp ref="F2">
+      <value>FUSE2P</value>
+      <footprint>fuseboardv4:FUSE1</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="FUSE2P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>3EAE4237</tstamp>
+    </comp>
+    <comp ref="F3">
+      <value>FUSE2P</value>
+      <footprint>fuseboardv4:FUSE1</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="FUSE2P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>CCBFD8CD</tstamp>
+    </comp>
+    <comp ref="F4">
+      <value>FUSE2P</value>
+      <footprint>fuseboardv4:FUSE1</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="FUSE2P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B92208D</tstamp>
+    </comp>
+    <comp ref="F5">
+      <value>FUSE2P</value>
+      <footprint>fuseboardv4:FUSE1</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="FUSE2P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>10CC33E0</tstamp>
+    </comp>
+    <comp ref="F6">
+      <value>FUSE2P</value>
+      <footprint>fuseboardv4:FUSE1</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="FUSE2P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>D6E18C43</tstamp>
+    </comp>
+    <comp ref="F7">
+      <value>FUSE2P</value>
+      <footprint>fuseboardv4:FUSE1</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="FUSE2P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>264C7A16</tstamp>
+    </comp>
+    <comp ref="F8">
+      <value>FUSE2P</value>
+      <footprint>fuseboardv4:FUSE1</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="FUSE2P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>40530525</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>R-EU_0204_7</value>
+      <footprint>fuseboardv4:0204_7</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="R-EU_0204_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>CAE48B39</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>R-EU_0204_7</value>
+      <footprint>fuseboardv4:0204_7</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="R-EU_0204_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>1BE7E303</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>R-EU_0204_7</value>
+      <footprint>fuseboardv4:0204_7</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="R-EU_0204_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>E67A151D</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>R-EU_0204_7</value>
+      <footprint>fuseboardv4:0204_7</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="R-EU_0204_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>3B37D644</tstamp>
+    </comp>
+    <comp ref="LED5">
+      <value>LED3MM</value>
+      <footprint>fuseboardv4:LED3MM</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="LED3MM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>69414D15</tstamp>
+    </comp>
+    <comp ref="LED6">
+      <value>LED3MM</value>
+      <footprint>fuseboardv4:LED3MM</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="LED3MM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>3E6DA659</tstamp>
+    </comp>
+    <comp ref="LED7">
+      <value>LED3MM</value>
+      <footprint>fuseboardv4:LED3MM</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="LED3MM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>80FA1933</tstamp>
+    </comp>
+    <comp ref="LED8">
+      <value>LED3MM</value>
+      <footprint>fuseboardv4:LED3MM</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="LED3MM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>573B2024</tstamp>
+    </comp>
+    <comp ref="U$1">
+      <value>E1A1BATTERYHOLDERVERSION1</value>
+      <footprint>fuseboardv4:E1A14S</footprint>
+      <libsource lib="" part="E1A1BATTERYHOLDERVERSION1" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>89E33A62</tstamp>
+    </comp>
+    <comp ref="U$2">
+      <value>E1A1BATTERYHOLDERVERSION1</value>
+      <footprint>fuseboardv4:E1A14S</footprint>
+      <libsource lib="" part="E1A1BATTERYHOLDERVERSION1" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC871C6</tstamp>
+    </comp>
+    <comp ref="X1">
+      <value>MPT3</value>
+      <footprint>fuseboardv4:3POL254</footprint>
+      <libsource lib="fuseboardv4-eagle-import" part="MPT3" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8679BB69</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Screw_Terminal_01x01</value>
+      <footprint>fuseboardv4:LSK 271</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC9AFBE</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Screw_Terminal_01x01</value>
+      <footprint>fuseboardv4:LSK 271</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC9BB2B</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Screw_Terminal_01x01</value>
+      <footprint>fuseboardv4:LSK 271</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC9D8CD</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="fuseboardv4-eagle-import:E1A1BATTERYHOLDERVERSION1">
+      <fields>
+        <field name="Value">fuseboardv4-eagle-import:E1A1BATTERYHOLDERVERSION1</field>
+      </fields>
+      <pins>
+        <pin num="P$1" name="P$1" type="input"/>
+        <pin num="P$2" name="P$2" type="input"/>
+        <pin num="P$3" name="P$3" type="input"/>
+        <pin num="P$4" name="P$4" type="input"/>
+        <pin num="P$5" name="P$5" type="input"/>
+        <pin num="P$6" name="P$6" type="input"/>
+        <pin num="P$7" name="P$7" type="input"/>
+        <pin num="P$8" name="P$8" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x01">
+      <description>Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="fuseboardv4-eagle-import" part="FUSE2P">
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">FUSE2P</field>
+      </fields>
+      <pins>
+        <pin num="1A" name="1A" type="passive"/>
+        <pin num="1B" name="1B" type="passive"/>
+        <pin num="2A" name="2A" type="passive"/>
+        <pin num="2B" name="2B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="fuseboardv4-eagle-import" part="LED3MM">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">LED3MM</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="K" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="fuseboardv4-eagle-import" part="MPT3">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">MPT3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+        <pin num="3" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="fuseboardv4-eagle-import" part="R-EU_0204_7">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-EU_0204_7</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="fuseboardv4-eagle-import">
+      <uri>D:\Users\admin.local\Documents\KIcad\fuseboard\v7/fuseboardv4-eagle-import.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(LED5-PadK)">
+      <node ref="LED5" pin="K"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="2" name="Net-(LED6-PadK)">
+      <node ref="LED6" pin="K"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="3" name="Net-(LED7-PadK)">
+      <node ref="LED7" pin="K"/>
+      <node ref="R7" pin="2"/>
+    </net>
+    <net code="4" name="Net-(LED8-PadK)">
+      <node ref="LED8" pin="K"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="5" name="Net-(F4-Pad1A)">
+      <node ref="U$1" pin="P$4"/>
+      <node ref="F4" pin="1A"/>
+      <node ref="F4" pin="1B"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="6" name="Net-(LED4-PadK)">
+      <node ref="LED4" pin="K"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="7" name="Net-(F1-Pad1A)">
+      <node ref="F1" pin="1A"/>
+      <node ref="R1" pin="1"/>
+      <node ref="F1" pin="1B"/>
+      <node ref="U$1" pin="P$1"/>
+    </net>
+    <net code="8" name="Net-(F2-Pad1A)">
+      <node ref="F2" pin="1A"/>
+      <node ref="R2" pin="1"/>
+      <node ref="F2" pin="1B"/>
+      <node ref="U$1" pin="P$2"/>
+    </net>
+    <net code="9" name="Net-(F3-Pad1A)">
+      <node ref="R3" pin="2"/>
+      <node ref="F3" pin="1B"/>
+      <node ref="F3" pin="1A"/>
+      <node ref="U$1" pin="P$3"/>
+    </net>
+    <net code="10" name="Net-(F8-Pad2A)">
+      <node ref="U$2" pin="P$1"/>
+      <node ref="F8" pin="2A"/>
+      <node ref="F8" pin="2B"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="11" name="Net-(F7-Pad2A)">
+      <node ref="F7" pin="2B"/>
+      <node ref="F7" pin="2A"/>
+      <node ref="R7" pin="1"/>
+      <node ref="U$2" pin="P$2"/>
+    </net>
+    <net code="12" name="Net-(F6-Pad2A)">
+      <node ref="R6" pin="1"/>
+      <node ref="U$2" pin="P$3"/>
+      <node ref="F6" pin="2A"/>
+      <node ref="F6" pin="2B"/>
+    </net>
+    <net code="13" name="Net-(F5-Pad2A)">
+      <node ref="F5" pin="2A"/>
+      <node ref="R5" pin="1"/>
+      <node ref="F5" pin="2B"/>
+      <node ref="U$2" pin="P$4"/>
+    </net>
+    <net code="14" name="Net-(J3-Pad1)">
+      <node ref="U$2" pin="P$5"/>
+      <node ref="U$2" pin="P$8"/>
+      <node ref="U$1" pin="P$8"/>
+      <node ref="U$1" pin="P$7"/>
+      <node ref="U$1" pin="P$6"/>
+      <node ref="U$1" pin="P$5"/>
+      <node ref="U$2" pin="P$6"/>
+      <node ref="U$2" pin="P$7"/>
+      <node ref="J3" pin="1"/>
+    </net>
+    <net code="15" name="Net-(F1-Pad2A)">
+      <node ref="LED1" pin="A"/>
+      <node ref="X1" pin="3"/>
+      <node ref="X1" pin="1"/>
+      <node ref="X1" pin="2"/>
+      <node ref="F8" pin="1A"/>
+      <node ref="J2" pin="1"/>
+      <node ref="J1" pin="1"/>
+      <node ref="F3" pin="2A"/>
+      <node ref="LED4" pin="A"/>
+      <node ref="F8" pin="1B"/>
+      <node ref="LED5" pin="A"/>
+      <node ref="LED6" pin="A"/>
+      <node ref="LED7" pin="A"/>
+      <node ref="LED8" pin="A"/>
+      <node ref="F1" pin="2A"/>
+      <node ref="F1" pin="2B"/>
+      <node ref="F2" pin="2A"/>
+      <node ref="F2" pin="2B"/>
+      <node ref="LED2" pin="A"/>
+      <node ref="F3" pin="2B"/>
+      <node ref="F4" pin="2A"/>
+      <node ref="F4" pin="2B"/>
+      <node ref="F5" pin="1A"/>
+      <node ref="F5" pin="1B"/>
+      <node ref="F6" pin="1A"/>
+      <node ref="F6" pin="1B"/>
+      <node ref="F7" pin="1A"/>
+      <node ref="F7" pin="1B"/>
+      <node ref="LED3" pin="A"/>
+    </net>
+    <net code="16" name="Net-(LED1-PadK)">
+      <node ref="R1" pin="2"/>
+      <node ref="LED1" pin="K"/>
+    </net>
+    <net code="17" name="Net-(LED2-PadK)">
+      <node ref="R2" pin="2"/>
+      <node ref="LED2" pin="K"/>
+    </net>
+    <net code="18" name="Net-(LED3-PadK)">
+      <node ref="R3" pin="1"/>
+      <node ref="LED3" pin="K"/>
+    </net>
+  </nets>
+</export>

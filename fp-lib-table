@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name fuseboardv4)(type KiCad)(uri "$(KIPRJMOD)/fuseboardv4.pretty")(options "")(descr ""))
+  (lib (name Connector_Metz)(type KiCad)(uri D:/Users/admin.local/Documents/KIcad/fuseboard/v7.2/TerminalBlock_MetzConnect.pretty-master)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name fuseboardv4-eagle-import)(type Legacy)(uri ${KIPRJMOD}/fuseboardv4-eagle-import.lib)(options "")(descr ""))
+  (lib (name fuseboardv4-rescue)(type Legacy)(uri ${KIPRJMOD}/fuseboardv4-rescue.lib)(options "")(descr ""))
+)
